@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106127834301",
+    "project_id": "crud-pmob",
+    "storage_bucket": "crud-pmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106127834301:android:eb565a90e9f138e9e70bd4",
+        "android_client_info": {
+          "package_name": "id.sttbandung.listview_gridview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzcU32Z4RsFaTvlKk0Twdv6R7MLmbpaJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106127834301:android:243397b59da9280ee70bd4",
+        "android_client_info": {
+          "package_name": "id.sttbandung.newscatalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzcU32Z4RsFaTvlKk0Twdv6R7MLmbpaJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
