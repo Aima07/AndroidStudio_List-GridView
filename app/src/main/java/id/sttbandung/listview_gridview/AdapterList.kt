@@ -20,9 +20,9 @@ class AdapterList(private val itemList: kotlin.collections.List<ItemList>): Recy
     }
 
     class ViewHolder(itemView: View): RecyclerView.ViewHolder(itemView) {
-        val title: TextView = itemView.findViewById(R.id.nTitle)
-        val subTitle: TextView = itemView.findViewById(R.id.nSubTitle)
-        val image: ImageView = itemView.findViewById(R.id.nImage)
+        val title: TextView = itemView.findViewById(R.id.title)
+        val subTitle: TextView = itemView.findViewById(R.id.subTitle)
+        val image: ImageView = itemView.findViewById(R.id.image)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
